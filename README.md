@@ -3,7 +3,7 @@
 Learning Flutter Skills <br>
 Simple chat with animation <br>
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Screen](https://github.com/ETNINJA/FriendlyChat/blob/master/FriendlyChat.png)
 
 ## Getting Started
 
