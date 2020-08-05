@@ -3,6 +3,8 @@
 Learning Flutter Skills <br>
 Simple chat with animation <br>
 
+![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
